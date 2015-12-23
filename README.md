@@ -34,4 +34,4 @@ Simply enter the style number of the product you want to download and hit enter.
 
 ## This code does not handle failures very well
 
-This application wasn't designed for public use and as a result is quite brittle. There is no exception handling, and there are no unit tests. If you need a more robust solution, contact us and we'll come up with a custom application for your needs.
+This application wasn't designed for public use and as a result is quite brittle. There is no exception handling, and there are no unit tests. If you need a more robust solution, contact us at http://ghostunit.rip/ and we'll come up with a custom application for your needs.
