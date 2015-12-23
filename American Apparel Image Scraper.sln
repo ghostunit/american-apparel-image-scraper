@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hi-Res Image Scraper", "Hi-Res Image Scraper\Hi-Res Image Scraper.csproj", "{A85F8F89-D88B-4292-A977-2CEDBEF01322}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "American Apparel Image Scraper", "American Apparel Image Scraper\American Apparel Image Scraper.csproj", "{A85F8F89-D88B-4292-A977-2CEDBEF01322}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
