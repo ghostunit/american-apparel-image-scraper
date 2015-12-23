@@ -25,7 +25,7 @@ namespace HiResImageScraper
 
     private static string RequestStyleNumber()
     {
-      Console.Write("Enter an American Apparel style number or type 'q' to exit: ");
+      Console.Write("Enter an American Apparel style number or type 'q' to quit: ");
       return Console.ReadLine();
     }
   }
