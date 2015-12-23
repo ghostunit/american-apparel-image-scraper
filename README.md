@@ -30,7 +30,7 @@ The program is extremely simple, and has only one prompt:
 Enter an American Apparel style number or type 'q' to quit:
 ```
 
-Simply enter the style number of the product you want to download and hit enter. The program will run and download all available images. When it is complete the prompt will appear again. Keep entering style numbers until you are finished, then type `q` and hit enter.
+Simply enter the style number of the product you want to download and hit enter. The program will run and download all available images. When it is complete the prompt will appear again. Keep entering style numbers until you are finished, then type `q` and hit enter to quit.
 
 ## This code does not handle failures very well
 
